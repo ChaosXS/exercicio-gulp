@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "gulp",
   "version": "1.0.0",
   "description": "",
@@ -15,3 +16,26 @@
     "sass": "^1.97.2"
   }
 }
+=======
+  "name": "exm16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "gulp": "^5.0.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^6.0.1",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.93.2"
+  }
+}
+>>>>>>> 085763787313c22adee3accdfa9f5cf880735473
